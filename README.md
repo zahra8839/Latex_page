@@ -16,7 +16,7 @@
 
 ## Tex Files:
 
--[Page 16.tex][https://github.com/crzboy/Latex_page/blob/gh-pages/16.tex]
+-[Page 16.tex](https://github.com/crzboy/Latex_page/blob/gh-pages/16.tex)
 
 -[Page 17.tex](https://github.com/crzboy/Latex_page/blob/gh-pages/17.tex)
 

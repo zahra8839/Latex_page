@@ -14,7 +14,7 @@
 
 ## Tex Files:
 
--[Page 16.tex][https://github.com/crzboy/Latex_page-16_18/blob/main/16.tex]
+-[Page 16.tex](https://github.com/crzboy/Latex_page-16_18/blob/main/16.tex)
 
 -[Page 17.tex](https://github.com/crzboy/Latex_page-16_18/blob/main/17.tex)
 

@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# Latex_page-16_18
 
-You can use the [editor on GitHub](https://github.com/crzboy/Latex_page/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+##PDF Files:
 
-### Markdown
+#Page 16:(16.pdf)[https://github.com/crzboy/Latex_page-16_18/blob/main/16.pdf]
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#Page 17:(17.pdf)[https://github.com/crzboy/Latex_page-16_18/blob/main/17.pdf]
 
-```markdown
-Syntax highlighted code block
+#Page 18:(18.pdf)[https://github.com/crzboy/Latex_page-16_18/blob/main/18.pdf]
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+##Tex Files:
 
-1. Numbered
-2. List
+#Page 16:(16.tex)[https://github.com/crzboy/Latex_page-16_18/blob/main/16.tex]
 
-**Bold** and _Italic_ and `Code` text
+#Page 17:(17.tex)[https://github.com/crzboy/Latex_page-16_18/blob/main/17.tex]
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/crzboy/Latex_page/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#Page 18:(18.tex)[https://github.com/crzboy/Latex_page-16_18/blob/main/18.tex]
